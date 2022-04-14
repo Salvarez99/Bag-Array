@@ -1,0 +1,12 @@
+0Fried_chicken
+1Omelet
+2Pizza
+3Kebab
+4Fish
+5Steak
+6Broth
+7Tossed_salad
+8Dressing
+9Pasta
+10Rice
+11Soup
