@@ -1,4 +1,4 @@
-# Albany-Project01
+# Bag-Array
 Create a Bag object and uses methods to configure Bag object
 
 ## Project Description
